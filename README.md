@@ -2,7 +2,7 @@
 
 This Swift repository contains a simple project for encrypting and decrypting Morse code messages. Utilizing dictionaries to map characters to Morse code symbols, the tool allows users to encode plaintext into Morse code and decode Morse code back into text seamlessly.
 
-![Morse Code](morse_code_image.png)
+![Morse Code](images/Morse_Code.gif)
 ## Features
 
 - **Encryption**: Input plaintext messages and convert them into Morse code, preserving the spacing conventions of Morse code.
@@ -15,11 +15,3 @@ This Swift repository contains a simple project for encrypting and decrypting Mo
 1. Clone the repository to your local machine.
 2. Open the project in Xcode or any preferred Swift development environment.
 3. Run the project and interact with the user interface to encrypt or decrypt messages as desired.
-
-## Contributions
-
-Contributions to enhance the functionality or usability of the Morse Code Encrypter/Decrypter project are welcome. Feel free to submit pull requests or open issues for any suggestions or improvements.
-
-
-
-
